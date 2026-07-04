@@ -1,4 +1,8 @@
-||api.shipbook.io^
+||assets.adobedtm.com^
 ||media.licdn.com^
 ||podlytics.pod.ir^
+||api.shipbook.io^
+||graph.facebook.com^
+||web.facebook.com^
 ||firebaseremoteconfig.googleapis.com^
+||mqtt-mini.facebook.com^
