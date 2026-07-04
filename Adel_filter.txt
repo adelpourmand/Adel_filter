@@ -154642,3 +154642,7 @@ analytics-*.aasaam.com
 ||xgapromomanager-pa.googleapis.com^
 ||zp8y0r-cdn-settings.appsflyersdk.com^
 ||zp8y0r-launches.appsflyersdk.com^
+||clienttracing-pa.googleapis.com^
+||api.0025974bf482fe84ac6a59293ae0bc0432a7b9fc.com^
+||improving.duckduckgo.com^
+||ads.mozilla.org^
